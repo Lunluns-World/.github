@@ -28,16 +28,6 @@ Lunlun's World 是以 Minecraft 為核心的台灣玩家社群，經營長期營
 |---|---|
 | [LegacyMapFix](https://github.com/Lunluns-World/LegacyMapFix) | Paper 插件，修復 HuskSync 舊格式鎖定地圖在跨分流同步後錯亂的問題 |
 
-### 維護中的 Fork
-
-| 專案 | 說明 | 上游 |
-|---|---|---|
-| [Jexactyl](https://github.com/Lunluns-World/Jexactyl) | 遊戲伺服器管理面板與計費系統 | [Jexactyl/Jexactyl](https://github.com/Jexactyl/Jexactyl) |
-| [ChunkGuardAgent](https://github.com/Lunluns-World/ChunkGuardAgent) | Java Agent，防止 Paper 用空白區塊覆蓋硬碟上的正常資料 | [kuohsuanlo/ChunkGuardAgent](https://github.com/kuohsuanlo/ChunkGuardAgent) |
-| [Residence](https://github.com/Lunluns-World/Residence) | 領地插件 | — |
-| [BetterRecipeMemory-Plugin](https://github.com/Lunluns-World/BetterRecipeMemory-Plugin) | 配方記憶插件版 | [kuohsuanlo/BetterRecipeMemory-Datapack](https://github.com/kuohsuanlo/BetterRecipeMemory-Datapack) |
-| [BetterRecipeMemory-Datapack](https://github.com/Lunluns-World/BetterRecipeMemory-Datapack) | 配方記憶資料包版 | [kuohsuanlo/BetterRecipeMemory-Datapack](https://github.com/kuohsuanlo/BetterRecipeMemory-Datapack) |
-
 ### 文件
 
 | 專案 | 說明 |
